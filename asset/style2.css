@@ -59,7 +59,7 @@ h6 {
     height: 50px;
     background-size: 100%;
     border-radius: 100%;
-    background-image: url(file:///D:/aakselprog/prog%202/asset/Screenshot%202023-09-11%20164625.png);
+    background-image: url(https://dapa304.github.io/asset/Screenshot%202023-09-11%20164625.png);
     font-size: 30px;
 }
 
@@ -109,7 +109,7 @@ h6 {
     height: 55rem;
     background-size: 100%;
     background-position: 2px;
-    background-image: url(file:///D:/assets/assets/img/header-bg.jpg);
+    background-image: url(https://dapa304.github.io/asset/header-bg.jpg);
     background-attachment: fixed;
     justify-content: space-around;
 }
@@ -142,7 +142,7 @@ h6 {
     height: 35%;
     border-radius: 100%;
     background-position: 2px;
-    background-image: url(file:///D:/aakselprog/prog%202/asset/KUGM2123.JPG);
+    background-image: url(https://dapa304.github.io/asset/KUGM2123.JPG);
     background-size: 100%;
 }
 
