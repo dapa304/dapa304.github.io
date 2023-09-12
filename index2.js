@@ -4,7 +4,7 @@ const text = document.querySelector('.typing-text');
 // make a words array
 const words = [
   "web developer.",
-  "programer.",
+  "programing.",
   "IOT.",
   "student."
 ];
